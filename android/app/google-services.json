@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584059512693",
+    "project_id": "fir-66795",
+    "storage_bucket": "fir-66795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584059512693:android:f98bafb90ee9f526fd153c",
+        "android_client_info": {
+          "package_name": "com.gt.amazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SyroXM0jjDTl8Qkn-4BN0aLQv-fZ_Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
